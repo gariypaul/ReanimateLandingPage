@@ -20,7 +20,7 @@ function App() {
     </nav>
       
     
-      <div className="relative w-screen h-screen pointer-events-auto" id="home">
+      <div className="relative w-screen h-screen pointer-events-auto align-middle" id="home">
         
       <Spline scene="https://prod.spline.design/Wygt6Wz5y2vmVoRo/scene.splinecode"  className='pointer-events-auto'/>
       <div className='absolute top-44 left-28 ' >
